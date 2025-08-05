@@ -1,0 +1,18 @@
+---
+title: Ackriel Island Session 8
+draft: false
+tags:
+---
+ 
+The party left Count Rosya's tomb and returned to priestess Sevarra. As they entered the inner city the party noticed the guards seemed to be in an agitated state. Sevarra set up a meeting with her contact and the party learned from him where the cult was based and that they were currently planning something big. He wasn't trusted enough by the leadership to know the full plan but he knew the cult had stolen gunpowder from one of the hobgoblin ships as part of their plan.
+
+The party figured the cult as aiming to free [[Maldar]] so [[Knura]] and [[Violet]] went to speak to him at the prison while [[Evette]] and [[Kharmon]] investigated the missing gunpowder in Gobtown. [[Kharmon]] and [[Evette]] learned that the stolen gunpowder likely had to be done through an inside job. They investigated some of the hobgoblin captains and found their suspect in Captain A. He was largely suspicious of the two adventurers but [[Evette]] was able to somewhat lower is guard through a drinking game and learned he was waiting to meet someone else at the tavern.
+
+[[Kharmon]] and [[Evette]] left the tavern and waited to see if they could spot the person meeting with the hobgoblin captain from there. They missed his entrance but saw the captain's contact as he was leaving and followed him through the streets of Gobtown. The stranger was careful to keep an eye out for anyone following him. [[Kharmon]] and [[Evette]] managed to avoid his notice but were unable to get a look at his face. They eventually followed him up the main thoroughfare to the cult's headquarters before leaving to meet with the others at the prison.
+
+Meanwhile, [[Violet]] and [[Knura]] had begun there investigation by speaking to [[Maldar]]. To get him to talk they acted as if they had already foiled the escape attempt and only needed [[Maldar]] to tie up a few loose ends. While he was suspicious of them, for the most part this strategy worked and [[Maldar]] did not catch on until the end of the conversation. He did provide some information, mainly claiming that he had no been involved  in the planning directly only that [[Lilith]] had informed of him of the coming rescue through his dreams. For his part [[Maldar]] attempted to play on [[Knura]]'s sympathies but had little success. 
+
+They reached a point where [[Maldar]] refused to divulge any further information without some sort of stay of execution. They received an official notice from Baron Movitch granting a stay of execution, though he planned to revoke it later. [[Maldar]] revealed what little else he knew but it wasn't much help to the party. As they prepared to regroup, however, [[Knura]] noticed road workers working on the street right above [[Maldar]]'s cell. As she investigated the workers were cagey and kept her from looking under the tarp which covered the supplies on their cart. [[Knura]] attempted to to remove the tarp by pretending to trip an accidently remove it, but the workers still kept her from doing do. While [[Knura]] did not get a look under the tarp she did smell gunpowder as she was nearby it.
+
+[[Knura]] and [[Violet]] waited for [[Kharmon]] and [[Evette]] to return to the prison. Once the party regrouped and filled each other in on the days events they decided the best way to counter the cultists' plan was to transfer [[Maldar]] into a different cell, where the gunpowder hadn't been set. Just as the party opened his cell with a small detachment of guards the cultists, who suspected the party was onto them, detonated the gunpowder creating a hole in his cell and destroying where he had been shackled to the wall.  
+

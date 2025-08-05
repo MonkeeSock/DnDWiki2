@@ -1,0 +1,11 @@
+---
+title: Dragon Reincarnation
+draft: false
+tags:
+---
+The following is an excerpt from a treatise written by [[Calum Quaide Kincaid]], the [[Wizard of Ithamon]] titled *On Dragon Reincarnation*. 
+
+*In the decade since the dragons returned to [[Cyn-Tollir]] many have wondered what precipitated this return and massive shifts in societies across the continent. Of course, it has long been held by nearly all religious authorities that the [[Dragons]] were and always had been immortal, particularly by the [[Dragonborn]] but after ten thousand years of absence many had come to doubt this sentiment believing it to be idle myth or fantasy. For many this supposed immortality may as well still be myth as the [[Dragons]] who wreaked the most havoc during the crisis were never said to have been killed in the first place, those being [[Caldor]], [[Solva]] and [[Garsooth]]. The topic of these [[Dragons]] and their slumber is a matter of grave importance of course but not the topic of this treatise. Unbeknownst to many the other chromatic dragons did return from death and had it not been for the actions of a group called [[The Bandit Bashers]] in [[Hen Ymorda]] this recent crisis may have been far worse. Their return, or reincarnation, is well verified as is the return of other [[Dragons]], most notably [[Glamthring]].*
+
+*My research has shown that any of the slain [[Dragons]] may naturally resurrect themselves given enough time but this process can be much sped up through devout worship and material sacrifice. The [[Dragonborn]] have of course known this for millennia. When a dragon first reincarnates they do so in a much weakened form. Over time, they will grow in size and power. This can be sped up though devout worship and material sacrifice as well. This is the reason the [[Dragons]] are alleged to keep legendary hoards of treasure, even though no such hoards have been found. As [[Caldoria]] has continued to establish itself as a continental super power it may be reasonable to assume The Black Dragon will once again increase in size and power, however, this is speculation. As it stands it is not known if the [[Dragons]] have any limit to their size and raw power and the answer to such a question may only be known to the dragons themselves, if it is known at all.*
+
