@@ -15,7 +15,7 @@ As the night drew to a close the party left the tavern just as [[Lord Ivor]] him
 
 The next morning the party arrived at [[Lord Ivor]]'s manor and explained their suspicions regarding the tiefling. They learned he had presented himself as Radlam after scaring off the ambushing goblins. He had been able to surpirse the goblins himself and his attack had been so deadly and fierce that it caused the rest to retreat.
 
-While the party spoke to Ivor Kharmon found Ivor's Wife, the Lady Dalianna, in the manor's gardens. A gardener herself, she was working on a small rose bush. Kharmon learned that she likely knew of [[Lord Ivor]]'s own infidelity and was seemingly not entirely opposed to some of her own.
+While the party spoke to Ivor Kharmon found Ivor's Wife, the [[Lady Dalianna|[[Lady Dalian]]na]], in the manor's gardens. A gardener herself, she was working on a small rose bush. Kharmon learned that she likely knew of [[Lord Ivor]]'s own infidelity and was seemingly not entirely opposed to some of her own.
 
 The party then went to speak with Radlam. They got his version of the story and tried to investigate their suspicions without raising his. [[Knura]] managed to entice Radlam into a date at the tavern.
 

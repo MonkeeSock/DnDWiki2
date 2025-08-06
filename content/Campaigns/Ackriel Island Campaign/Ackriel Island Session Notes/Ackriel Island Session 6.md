@@ -1,7 +1,7 @@
 ---
-title: Example Title
+title: Ackriel Island Session 6
 draft: false
-tags: []
+tags:
 ---
 The party woke after escaping the nightmare adn prepared to travel to [[Nisk]] with [[Lord Ivor]], his men and [[Maldar]]. Ivor and his men had nightmares as well, in which two men at arms had died. As they were preparing to leave the party noticed that some of the men at arms, however, were well rested. [[Kharmon]] investigated, first interrogating Bedawyr his minor rival. The conversation become to hostile and dysfunctional so he investigated a different guard instead. Eventually he found some discrepancies in the stories of the various guards, indicating some may have taken the deal offered by [[Lilith]]. 
 
