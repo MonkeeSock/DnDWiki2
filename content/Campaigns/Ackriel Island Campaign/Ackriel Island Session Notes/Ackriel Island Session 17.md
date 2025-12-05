@@ -6,7 +6,7 @@ tags: []
  
 After retrieving the sword in the stone, flametongue, the party went after [[Helena]] in the swamp. 
 
-As they approached [[Helena]]'s hut they began to feel, strange and malevolent magic in the area. They were watched by [[Helena]]'s familiar, a black cat as they approached. The party used the crow's feather to get personal details about [[Helena]], learning she was the daughter of Baba Yaga. They also learned of her previous encounters with [[Kelmac]] and how she was reluctant to confront him. 
+As they approached [[Helena]]'s hut they began to feel, strange and malevolent magic in the area. They were watched by [[Helena]]'s familiar, a black cat as they approached. The party used the crow's feather to get personal details about [[Helena]], learning she was the daughter of [[Baba Yaga]]. They also learned of her previous encounters with [[Kelmac]] and how she was reluctant to confront him. 
 
 The party at first tried to negotiate with [[Helena]] for [[Percy]]'s blood but were unsuccessful. [[Violet]] disguised herself as [[Kelmac]] to intimidate her which was a good idea but ultimately unsuccessful. 
 
