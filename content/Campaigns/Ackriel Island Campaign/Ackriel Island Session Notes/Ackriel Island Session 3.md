@@ -5,7 +5,7 @@ tags:
 ---
 The session began with the party ambushing [[Alkar]] and the goblin reinforcements. The trap the party made was brutally effective and destroyed most of the goblins before the fight even truly began. It only took a little more effort for the party to destroy the rest of the goblins and defeat [[Alkar]]. 
 
-The party captured and interrogated [[Alkar]] who explained his relationship with [[Lord Ivor]] and his motivations for revenge. According to [[Alkar]] he had provided Ivor with an amulet of charm person and a scroll of summon archdevil. Ivor then used the amulet to have an affair with [[Alkar]]'s wife, Olivia. 
+The party captured and interrogated [[Alkar]] who explained his relationship with [[Lord Ivor]] and his motivations for revenge. According to [[Alkar]] he had provided Ivor with an amulet of charm person and a scroll of summon archdevil. Ivor then used the amulet to have an affair with [[Alkar]]'s wife, [[Olivia]]. 
 
 The party continued to interrogate [[Alkar]], asking who he had been working with and what the special assignment he was sent on had been. [[Alkar]] explained a tiefling name [[Maldar]] had made contact with him after he fled from Ivor's court. [[Maldar]] had supplied [[Alkar]] with the goblins and an opportunity for revenge. The recent special assignment had been for [[Alkar]] to retrieve some sap from a [[Devil's Oak]], a kind of tree known for its sap that is often used in poisons. Once the party had gotten the information they needed, Kharmon killed [[Alkar]]. 
 

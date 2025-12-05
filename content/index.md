@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Campaign Wiki!
 ---
-This is the campaign wiki!
+This is the campaign wiki! It is a collection of public notes for my campaign setting and is largely for my own use, so nothing is proofread. 
 
 The current date in the setting is the 25th of Novus Orsus (New Rains), year 30 of [[The Celestial Empire]].
 

@@ -4,9 +4,9 @@ draft: false
 tags:
 ---
  
-The party returned to Helena's hut and delivered the [[Feyberries]]. She told the party that of the three elves who fled orcs did find safety at [[Muntz]], at first. She didn't know the details but the father of the two elves was killed in the village and the two children were adopted by the clan east of the village. She was not sure what came of them after but she explained this had all happened 150 years ago.
+The party returned to [[Helena]]'s hut and delivered the [[Feyberries]]. She told the party that of the three elves who fled orcs did find safety at [[Muntz]], at first. She didn't know the details but the father of the two elves was killed in the village and the two children were adopted by the clan east of the village. She was not sure what came of them after but she explained this had all happened 150 years ago.
 
-The party asked if Helena had any potions for sale. Her most valuable potion was a potion of speed. She agreed to trade this potion for a vial of [[Percy]]'s blood, giving false promises to not use it for any harm. The party also learned Helena had some distaste for the druid Kelmac. 
+The party asked if [[Helena]] had any potions for sale. Her most valuable potion was a potion of speed. She agreed to trade this potion for a vial of [[Percy]]'s blood, giving false promises to not use it for any harm. The party also learned [[Helena]] had some distaste for the druid [[Kelmac]]. 
 
 They decided to travel to the forest and speak with the druid to see if he had any more information and then seek the elves formerly of the crow clan. As they crossed the road [[Knura]] saw a large group travelling towards [[Muntz]] and was able to recognize the, as potential cultists. [[Violet]] sent her familiar to get more details of the group. The party split from the road and continued towards the forest. A small group of cultists continued to [[Muntz]] but most followed the party off the road. 
 

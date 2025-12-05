@@ -3,9 +3,9 @@ title: Ackriel Island Session 19
 draft: false
 tags: []
 ---
-After [[Ackriel Island Sessison 18]] Zebadiah Sr. was exiled from [[Muntz]] to the Druid Kelmac's hermitage where he would work as his servant and be shielded from his curse by the Druid's powerful magic there. As the party went to deliver Zebadiah the Acrid Mountain, a volcano near [[Muntz]] began smoking. They party felt rumbling and a minor earthquake. The volcano did not erupt but seemed likely too. 
+After [[Ackriel Island Session 18]] Zebadiah Sr. was exiled from [[Muntz]] to the Druid [[Kelmac]]'s hermitage where he would work as his servant and be shielded from his curse by the Druid's powerful magic there. As the party went to deliver Zebadiah the Acrid Mountain, a volcano near [[Muntz]] began smoking. They party felt rumbling and a minor earthquake. The volcano did not erupt but seemed likely too. 
 
-When the party arrived at Kelmac's they caught up with [[Knura]] and Kelmac asked them investigate the volcano. He explained that centuries ago some sort of elemental being had been imprisoned in the volcano after causing havoc on the material plane. The party used the feather to learn it was efreeti and how the arcane mechanism trapping him functioned. 
+When the party arrived at [[Kelmac]]'s they caught up with [[Knura]] and [[Kelmac]] asked them investigate the volcano. He explained that centuries ago some sort of elemental being had been imprisoned in the volcano after causing havoc on the material plane. The party used the feather to learn it was efreeti and how the arcane mechanism trapping him functioned. 
 
 The party went to the volcano and searched for the entrance. After finding it [[Shrimp]] searched for traps. She found a trip wire laced in the thick bushes at the entrance of the cave which would trigger a large log to fall from the ceiling. [[Shrimp]] threw a dagger at the tripwire cutting it and disarming the trap. 
 
@@ -22,6 +22,8 @@ This final chamber contained four large crystals connected by a network of troug
 [[Shrimp]] began unleashing the lava and [[Percy]] tried to sue command to stall the efretti, Al'Nuqar. [[Violet]] was able to use tasha's hideous laughter to stall Al'nuqar. Al'nuqr used his lair action to summon some mega mephits. 
 
 As the fight continued the mephits were able to use heat metal to quickly bring down [[Percy]] and once the genie resisted [[Violet]]'s spell he was able to deal large damage to her after she had activated a crystal. [[Knura]] was able to activate another crystal and the party was quickly able to release all of the levers. Still, Al'nuqar knew to focus on the spell casters and the mephits were able to do enough damage to slow the party down as they fought their way to the last crystal. [[Evette]] largely became the party healer, using potions to revive the spellcasters who were quickly brought down again by their enemies and the genie's lair action. 
+
+During the fight [[Knura]] attempted a dance as she had in [[Ackriel Island Session 13]]
 
 [[Percy]] in particular went down numerous times and [[Knura]] and [[Violet]] were unconscious as well. While only a few mephits remained Al'nuqar was unharmed and would soon be able to turn his attention to [[Shrimp]] and [[Evette]] as the party's supply of potions dwindled. Eventually [[Percy]] was up again, took down a mephit and was able to give some temporary HP to [[Knura]]. When [[Knura]] was brought back up with a potion she had enough health and resistance to tank a hit from a lava stream. She had just enough movement to reach the last crystal and activate it, imprisoning the genie once again and snatching a victory from the jaws of defeat. 
 

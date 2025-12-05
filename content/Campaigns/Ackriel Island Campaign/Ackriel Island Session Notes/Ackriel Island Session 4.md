@@ -11,10 +11,10 @@ At last as Maldar stood up he used Arms of Hadar to escape the melee and took a 
 
 [[Violet]] and [[Kharmon]] used chromatic orb and magic missile to quickly undo the effects of the healing potion. Evette and [[Knura]] in bear form quickly the distance between Madlar, ending the fight and securing a major victory for the party.
 
-The rest of the session the party interrogated Maldar. They were able to extract very little information as his contract with [[Lilith]] severely limited his ability to speak freely on his plans. They did learn from him that he believed himself to be the bastard son of Baron Movitch and that he had planned to "save" [[Muntz]] from goblins in order to gain [[Lord Ivor]]'s trust. 
+The rest of the session the party interrogated Maldar. They were able to extract very little information as his contract with [[Lilith]] severely limited his ability to speak freely on his plans. They did learn from him that he believed himself to be the bastard son of [[Baron Movitch]] and that he had planned to "save" [[Muntz]] from goblins in order to gain [[Lord Ivor]]'s trust. 
 
-[[Kharmon]] wanted to kill Maldar but [[Lord Ivor]] hesitated. He hoped they might be able to extract more information and perhaps use Maldar as a tool against Baron Movitch for his own gain. They agreed to keep him alive for the time being. [[Kharmon]] also revealed to the Lady Dalianna that Maldar was her half-brother. 
+[[Kharmon]] wanted to kill Maldar but [[Lord Ivor]] hesitated. He hoped they might be able to extract more information and perhaps use Maldar as a tool against [[Baron Movitch]] for his own gain. They agreed to keep him alive for the time being. [[Kharmon]] also revealed to the Lady Dalianna that Maldar was her half-brother. 
 
 The next morning Maldar magically disguised himself as someone he knew was in the village in the hopes they would release him. The party was able to prove it was a disguise, however, and Maldar remained in prison. 
 
-It was agreed that Maldar was too dangerous to be held in [[Muntz]] but Lord Ivor still wanted to gain more from having a valuable prisoner. The party agreed to help transport Maldar to [[Nisk]] for more permanent holding and in the hopes of getting further work out of Baron Movitch by investigating the plot against him. 
+It was agreed that Maldar was too dangerous to be held in [[Muntz]] but [[Lord Ivor]] still wanted to gain more from having a valuable prisoner. The party agreed to help transport Maldar to [[Nisk]] for more permanent holding and in the hopes of getting further work out of [[Baron Movitch]] by investigating the plot against him. 

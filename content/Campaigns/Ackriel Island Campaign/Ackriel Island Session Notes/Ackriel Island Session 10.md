@@ -3,7 +3,7 @@ title: Ackriel island Session 10
 draft: false
 tags:
 ---
-The party was invited to a magical auction by Baron Movitch and introduced to a glory seeking paladin named [[Percy]]. As they arrived at the ballroom where the auction was being held the party was introduced to the people they were bidding against. Among them was Lady Dalianna, a peasant woman named Elaine, a rival adventuring party, a shifty rogue named Kairon, a dwarven merchant named Thessa and the wizard [[Calum Quaide Kincaid]]. 
+The party was invited to a magical auction by [[Baron Movitch]] and introduced to a glory seeking paladin named [[Percy]]. As they arrived at the ballroom where the auction was being held the party was introduced to the people they were bidding against. Among them was Lady Dalianna, a peasant woman named Elaine, a rival adventuring party, a shifty rogue named Kairon, a dwarven merchant named Thessa and the wizard [[Calum Quaide Kincaid]]. 
 
 Through eavesdropping and subtle questioning the party learned the various interests and weaknesses of their rival bidders. They learned Elaine was a woman with only a small amount of gold looking to win an item she hoped would fortify the health of her often sickly son. They also learned the paladin and leader of the rival party was something of an alcoholic. He was holding the party's purse and promising not to drink to his party members who were afraid he might impulsively spend their money. 
 
