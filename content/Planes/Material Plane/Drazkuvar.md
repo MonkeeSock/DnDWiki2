@@ -13,4 +13,7 @@ The Islands of Drazkuvar are all united under a High King on [[Ackriel Island]].
 
 The remaining islands are:
 	[[Ackriel Island]],
-	
+	[[Amprella Island]],
+	[[Maiden's Necklace]]
+
+![[Drazkuvar.jpg|500]]

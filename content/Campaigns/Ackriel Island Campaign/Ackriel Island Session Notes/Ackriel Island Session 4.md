@@ -5,7 +5,7 @@ tags:
 ---
 The session began with [[Knura]] luring [[Maldar]] into [[Lord Ivor]]'s manor. As they entered the foyer Maldar was surrounded by [[Evette]], [[Knura]] and some men at arms. [[Violet]], [[Kharmon]], [[Lord Ivor]] and the remaining men at arms were on the mezzanine above. 
 
-Seeing the situation Maldar turned and asked [[Knura]] if she was in on the plan too. After she confirmed she was the fight began. Immediately [[Violet]] used Tasha's Hideaous Laughter on Madlar, incapacitating him. The men-at-arms, [[Evette]] and [[Knura]] spent the next couple of rounds wailing on Maldar while Violet kept him under the effects of the spell through the use of her portent dice (and the DM forgetting to roll the saving through each time he took damage)
+Seeing the situation Maldar turned and asked [[Knura]] if she was in on the plan too. After she confirmed she was the fight began. Immediately [[Violet]] used Tasha's Hideaous Laughter on Madlar, incapacitating him. The men-at-arms, [[Evette]] and [[Knura]] spent the next couple of rounds wailing on Maldar while [[Violet]] kept him under the effects of the spell through the use of her portent dice (and the DM forgetting to roll the saving through each time he took damage)
 
 At last as Maldar stood up he used Arms of Hadar to escape the melee and took a potion of greater healing. He began to make his way towards the back of the foyer to escape through the back door or window, still hoping to deal some additional damage. He also used his villainous actions Soul Reap, which killed two men-at-arms immediately and did a small amount of necrotic damage to everyone else close enough. 
 
